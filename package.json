@@ -1,0 +1,9 @@
+{
+  "name": "iniciando-projeto",
+  "version": "1.0.0",
+  "description": "primeiro projeto com express",
+  "main": "index.js",
+  "repository": "https://github.com/Edivansanto5/iniciando-projeto.git",
+  "author": "Edivansantos",
+  "license": "MIT"
+}
