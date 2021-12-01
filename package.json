@@ -6,6 +6,9 @@
   "repository": "https://github.com/Edivansanto5/iniciando-projeto.git",
   "author": "Edivansantos",
   "license": "MIT",
+  "scripts": {
+    "dev":"node src/app.js"
+  },
   "dependencies": {
     "express": "^4.17.1"
   }
