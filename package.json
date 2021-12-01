@@ -7,9 +7,10 @@
   "author": "Edivansantos",
   "license": "MIT",
   "scripts": {
-    "dev":"node src/app.js"
+    "dev": "node src/app.js"
   },
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15"
   }
 }
